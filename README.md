@@ -1,1 +1,1 @@
-# Wired_cum_Wireless-NS2
+Implementation of Wired-cum-Wireless Network in NS2 Simulator
